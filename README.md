@@ -23,11 +23,9 @@
 
 1. 打开Arduino IDE。
 
-2. 在菜单栏中，选择工具 -> 开发板 -> ESP8266。
+2. 在菜单栏中，选择工具 -> 开发板 -> 选择NodeMcu1.0
 
-3. 选择通用ESP 8266 不同厂家开发板不一样，如果找不到则选择通用开发板
-
-![image](https://github.com/liyinchigithub/arduino_8266_wifi_webSocket/assets/19643260/e4a36898-e432-42e7-a645-f9756ea2afb9)
+![image](https://github.com/liyinchigithub/arduino_8266_wifi_http/assets/19643260/28203800-5c51-43a8-8af3-ba9499a6872a)
 
 ## （三）选择端口
 

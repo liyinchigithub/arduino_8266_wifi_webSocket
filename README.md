@@ -23,6 +23,9 @@
 
 1. 打开Arduino IDE。
 
-3. 在菜单栏中，选择工具 -> 开发板 -> 8266。
+2. 在菜单栏中，选择工具 -> 开发板 -> ESP8266。
 
-5. 在弹出的库管理器窗口中，输入WebSockets到搜索框中。
+3. 选择通用ESP 8266 不同厂家开发板不一样，如果找不到则选择通用开发板
+
+![image](https://github.com/liyinchigithub/arduino_8266_wifi_webSocket/assets/19643260/e4a36898-e432-42e7-a645-f9756ea2afb9)
+

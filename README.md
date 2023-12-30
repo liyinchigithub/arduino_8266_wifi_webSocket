@@ -29,3 +29,7 @@
 
 ![image](https://github.com/liyinchigithub/arduino_8266_wifi_webSocket/assets/19643260/e4a36898-e432-42e7-a645-f9756ea2afb9)
 
+## （三）选择端口
+
+![image](https://github.com/liyinchigithub/arduino_8266_wifi_http/assets/19643260/a6f60b7d-fe45-4a72-bc83-d17902110132)
+
